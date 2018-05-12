@@ -1,0 +1,35 @@
+_repo: Wit-and-Mirth--or-Pills-to-Purge-Melancholy-Vol.-5-of-6_26679
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: D'Urfey, Thomas
+    aliases:
+    - Durfey, Mr. (Thomas)
+    - D'Urphy, Thomas
+    - John, Gabriel
+    - D'Urfrey, Thomas
+    - Durffey, Thomas
+    birthdate: 1653
+    deathdate: 1723
+    gutenberg_agent_id: '6632'
+    url: http://www.gutenberg.org/2009/agents/6632
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_d'Urfey
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2008-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'M'
+- !lcsh 'Songs, English'
+- !lcsh 'Ballads, English'
+title: 'Wit and Mirth: or Pills to Purge Melancholy, Vol. 5 of 6'
+url: http://www.gutenberg.org/ebooks/26679
